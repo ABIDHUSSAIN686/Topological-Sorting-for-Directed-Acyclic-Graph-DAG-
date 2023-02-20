@@ -116,3 +116,12 @@ List Array is used to mark the nodes that are visited or not.
 O (V+E) , where V is the number of vertices and E is the number of edges
 ## Space complexity:
 O (V) , where V is the number of vertices
+
+# Commands to run this file 
+```
+javac main.java
+```
+```
+java main graphs.txt
+```
+
